@@ -1,0 +1,16 @@
+/* style.css */
+
+h1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: blue;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:forestgreen
+}
+
+ul, ol {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+}
